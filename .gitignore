@@ -1,0 +1,5 @@
+# Text editor
+.vscode
+
+# Generated (cache)
+__pycache__
